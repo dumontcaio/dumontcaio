@@ -35,3 +35,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dumontcaio/dumontcaio/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dumontcaio/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br />
+
+### Principais Repositórios
+
+<div style="display: inline_block" >
+  <a href="https://github.com/dumontcaio/full-stack-developer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dumontcaio&repo=full-stack-developer&theme=dark&hide_border=true" />
+  </a>
+</div>
